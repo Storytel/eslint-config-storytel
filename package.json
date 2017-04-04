@@ -11,6 +11,9 @@
     "url": "git+https://github.com/Storytel/eslint-config-storytel.git"
   },
   "author": "Alexander Olsson <noseglid@gmail.com>",
+  "contributors": [
+    "Dmytro Domshyn <dmytro.domshyn@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AtomBuild/eslint-config-storytel/issues"
