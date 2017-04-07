@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-storytel",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Common ESLint settings for Storytel javascript projects",
   "main": "index.js",
   "scripts": {
