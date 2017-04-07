@@ -16,9 +16,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AtomBuild/eslint-config-storytel/issues"
+    "url": "https://github.com/Storytel/eslint-config-storytel/issues"
   },
-  "homepage": "https://github.com/AtomBuild/eslint-config-storytel#readme",
+  "homepage": "https://github.com/Storytel/eslint-config-storytel#readme",
   "keywords": [
     "eslint",
     "eslint-config"
