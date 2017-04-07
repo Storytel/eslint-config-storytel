@@ -91,7 +91,7 @@ module.exports = {
     // require quotes around object literal property names
     'quote-props': 0,
     // specify whether double or single quotes should be used
-    'quotes': [2, 'single', 'avoid-escape'],
+    'quotes': ['error', 'single', { avoidEscape: true, allowTemplateLiterals: true }],
     // require identifiers to match the provided regular expression
     'id-match': 0,
     // enforce spacing before and after semicolons
